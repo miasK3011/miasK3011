@@ -1,4 +1,4 @@
-# Neemias Calebe Pereira Freire
+# 👨‍💻 Neemias Calebe Pereira Freire
 <div align="center">
   <img src="https://media1.tenor.com/m/Ny27M3POZacAAAAd/hotel-animation.gif"/>
 </div>
@@ -6,6 +6,7 @@
 ## 🤓 Bio
 Graduando em Ciência da Computação pela Universidade Federal Do Piauí.<br>
 Desenvolvedor Frontend e Backend.<br>
+
 
 ### 🔧 Tecnologias
 <div align="center">
@@ -21,3 +22,23 @@ Desenvolvedor Frontend e Backend.<br>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/></code>
 </div>
 
+## Social
+<div align="center">
+  <a href="www.linkedin.com/in/neemias-calebe-841468202" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/solo_mias_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="neemiascalebe2014@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="solo_mias_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+## Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miasK3011&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
