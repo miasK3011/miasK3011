@@ -42,7 +42,7 @@
 
 ###
 
-<img align="right" height="" src="https://www.icegif.com/wp-content/uploads/2024/01/icegif-502.gif"  />
+<img align="right" height="500" src="https://www.icegif.com/wp-content/uploads/2024/01/icegif-502.gif"  />
 
 ###
 
